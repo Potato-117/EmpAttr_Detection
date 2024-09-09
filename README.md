@@ -1,5 +1,4 @@
 # EmpAttr_Detection
-%%writefile EmpAtt_Pred.py
 import streamlit as st
 import joblib
 import numpy as np
